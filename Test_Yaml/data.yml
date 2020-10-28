@@ -1,0 +1,37 @@
+#animal: pets
+#dic: {"a":1, "b":2}
+
+#YML_Data:
+#  - 123
+#  - 345
+#LIST_Data: [1, 2, 3]
+
+#YML_Data:
+##  da1: True
+##  da2: False
+#  da1: 12
+#  da2: 12.01
+
+#YML_Data:
+#  da1: Null
+#  da2: ~
+
+#YML_Data:
+##  date: 2018-01-11
+##  date: 20180111
+#  date: 2018-01-11 12:12:12
+
+Test:
+  login_data01:
+    name: lili
+    pwd: 456
+  login_data02:
+    name: nana
+    pwd: 567
+  login_data03:
+    name: www
+    pwd: 789
+
+#test: login_data01
+#test_name: lili
+#test_pwd: 456
